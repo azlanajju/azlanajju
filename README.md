@@ -16,9 +16,11 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=azlanajju&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=azlanajju)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=azlanajju&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=azlanajju&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=azlanajju&show_icons=true&locale=en&layout=compact" alt="azlanajju" /></p>
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=azlanajju&limit=5&theme=dark&combine_all_yearly_contributions=true)
