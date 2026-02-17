@@ -18,11 +18,3 @@ Building scalable, reliable, and maintainable software.
 ### Overview
 
 Software Developer focused on backend systems, application architecture, and clean, efficient solutions.
-
----
-
-### GitHub
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=azlanajju&show_icons=true&hide_border=true&include_all_commits=true" />
-</p>
