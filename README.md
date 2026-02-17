@@ -13,11 +13,3 @@
 
 Software Developer focused on building reliable, scalable, and maintainable applications.
 
----
-
-### GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=azlanajju&show_icons=true&hide_border=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=azlanajju&layout=compact&hide_border=true" />
-</p>
